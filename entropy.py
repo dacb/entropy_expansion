@@ -1,5 +1,7 @@
 """
 Compute the entropy in bits of a list of probabilities.
+
+For testing.
 """
 
 import numpy as np
