@@ -1,5 +1,7 @@
 """
 Compute the entropy in bits of a list of probabilities.
+
+Merge conflicts in entropy.py.
 """
 
 import numpy as np
