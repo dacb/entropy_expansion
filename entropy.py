@@ -2,6 +2,8 @@
 Compute the entropy in bits of a list of probabilities.
 
 Merge conflicts in entropy.py.
+
+For testing.
 """
 
 import numpy as np
